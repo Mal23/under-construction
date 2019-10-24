@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(240, 240, 247);
+}
+
+h1 {
+  text-align: center;
+  padding-top: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 90px; 
+}
